@@ -1,0 +1,5 @@
+module.exports = {
+    mongoURI: 'mongodb+srv://admin:9nmJ8UOFdvHfM4lk@cluster0.ruwtd.mongodb.net/<dbname>?retryWrites=true&w=majority',
+    ACCESS_TOKEN_SECRET: 'FHDSFOH928HF2BFUHGF2G3F72GF8GQIFG8GC83G8AFIGW7W3F8W',
+    REFRESH_ACCESS_TOKEN_SECRET: 'JASHFIUE289FH2UQI3HF8723GQ8G3C78G8783GF87QG2F87G87Q2'
+}

@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.CLIENT_FETCH_DATA_FAIL = exports.CLIENT_FETCH_DATA_REQUEST = exports.CLIENT_FETCH_DATA_SUCCESS = void 0;
+exports.CLIENT_FETCH_DATA_SUCCESS = "CLIENT_FETCH_DATA_SUCCESS";
+exports.CLIENT_FETCH_DATA_REQUEST = "CLIENT_FETCH_DATA_REQUEST";
+exports.CLIENT_FETCH_DATA_FAIL = "CLIENT_FETCH_DATA_FAIL";
